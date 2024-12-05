@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # final_project
 
 Uygulamanın Genel Amacı ve İşlevselliği
@@ -26,3 +27,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# babies_app
+I am developing an application where mothers and expectant mothers can learn about their baby's development, check their horoscopes, take daily notes, and add photos. There are still features I want to add and improvements I want to make.
+>>>>>>> 38e403e421d46aa062e8a7d990123f64eafb16a1
