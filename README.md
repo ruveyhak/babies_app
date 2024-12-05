@@ -1,18 +1,18 @@
 <<<<<<< HEAD
-# final_project
 
-Uygulamanın Genel Amacı ve İşlevselliği
+# License  
+This project is shared without a specific license. All rights are reserved, and any unauthorized use, copying, modification, or distribution is strictly prohibited. For inquiries, please contact me.  
 
-Babies uygulaması, arayüzüne ilk giriş yaptığımızda bebeğin cinsiyetine göre bilgiler sayfasına yönlendiriyorum.
-Ay ay bebeklerin kilo ve boylarının ne olması gerektiğini, hangi fiziksel aktivite yapabileceklerini,
-bebeklerle nasıl vakit geçirileceğini yazdım.
-Burç hesaplama özelliği ekledim.
-Günlük kısmı ekledim bu sayede notlar ve fotoğraflar ekleyip kaydedebilecekleri bir kısım ekledim.
 
-Umarım Beğenirsiniz Teşekkürler.
+General Purpose and Functionality of the App
+The Babies app directs users to an information page based on the baby’s gender when they first access the interface.
+The app provides details on the expected weight and height of babies month by month, the physical activities they can perform, and suggestions for spending time with babies.
+I have also added a horoscope feature.
+A daily section has been included, allowing users to add and save notes and photos.
+
+I hope you like it. Thank you.
 
 Rüveyha Kocabaş
-2212102017
 
 
 ## Getting Started
